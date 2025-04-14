@@ -1,6 +1,6 @@
 # Stack Overflow: Tag Co-occurrence Networks
 
-<img src="/Users/apple/Desktop/stack overflow/images/StackOverflow.png" style="zoom:67%;" />
+<img src="images/StackOverflow.png" style="width:40%;" />
 
 Applied **PySpark** for large-scale processing of Stack Overflow data to analyze tag co-occurrences. Constructed network graph visualizations using **NetworkX** to uncover meaningful technology groupings based on tag relationships.
 
@@ -108,24 +108,25 @@ The following visualizations illustrate the technology clusters centered around 
 
 - The identified technology cluster centers around Android, with peripheral technologies such as Android Layout, Android Studio, flutter and others.
 
-![](/Users/apple/Desktop/stack overflow/images/android.png)
+
+<img src="images/android.png" style="width:80%;" />
 
 - The identified technology cluster centers around Java, with peripheral technologies such as spring-boot, xml, Android and others.
 
-![](/Users/apple/Desktop/stack overflow/images/java.png)
+<img src="images/java.png" style="width:80%;" />
 
 - The identified technology cluster centers around Javascript, with peripheral technologies such as html, jquery, ajax and others.
 
-![](/Users/apple/Desktop/stack overflow/images/javascript.png)
+<img src="images/javascript.png" style="width:80%;" />
 
 - The identified technology cluster centers around PHP, with peripheral technologies such as ajax, jquery, arrays and others.
 
-![](/Users/apple/Desktop/stack overflow/images/php.png)
+<img src="images/php.png" style="width:80%;" />
 
 - The identified technology cluster centers around C#, with peripheral technologies such as asp.net-mvc, arrays and others.
 
-![](/Users/apple/Desktop/stack overflow/images/c#.png)
+<img src="images/c#.png" style="width:80%;" />
 
 - The identified technology cluster centers around Python, with peripheral technologies such as machine-learning, arrays, scikit-learn, numpy and others.
 
-![](/Users/apple/Desktop/stack overflow/images/python.png)
+<img src="images/python.png" style="width:80%;" />
