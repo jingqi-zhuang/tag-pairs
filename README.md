@@ -125,7 +125,7 @@ The following visualizations illustrate the technology clusters centered around 
 
 - The identified technology cluster centers around C#, with peripheral technologies such as asp.net-mvc, arrays and others.
 
-<img src="images/c#.png" style="width:80%;" />
+<img src="images/c.png" style="width:80%;" />
 
 - The identified technology cluster centers around Python, with peripheral technologies such as machine-learning, arrays, scikit-learn, numpy and others.
 
