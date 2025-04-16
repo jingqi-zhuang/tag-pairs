@@ -1,8 +1,12 @@
 # Stack Overflow: Tag Co-occurrence Networks
 
+**What technologies are commonly used together—and how are they connected?**
+
 <img src="images/StackOverflow.png" style="width:40%;" />
 
-Applied **PySpark** for large-scale processing of Stack Overflow data to analyze tag co-occurrences. Constructed network graph visualizations using **NetworkX** to uncover meaningful technology groupings based on tag relationships.
+Tags on Stack Overflow often appear in clusters, reflecting real-world combinations of tools, languages, and frameworks used by developers.
+
+In this project, I applied PySpark for large-scale processing of Stack Overflow data to analyze tag co-occurrences. By constructing a network graph with NetworkX, I uncovered meaningful technology clusters—revealing how different tools and languages naturally group together in practice, and offering insights into common tech stacks and developer ecosystems.
 
 ## Part 1: Data Preparation
 
